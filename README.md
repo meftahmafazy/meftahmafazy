@@ -1,6 +1,6 @@
 ## Holla 👋
 
-My Name is Muhammad Meftah Mafazy from Banjarbaru, South Borneo, Indonesia. I'm a Computer Science Students in Lambung Mangkurat University, Banjarbaru, Indonesia
+My Name is Muhammad Meftah Mafazy from Banjarbaru, South Borneo, Indonesia. I'm a Postgraduate Students in Institut Teknologi Sepuluh Nopember, Surabaya, Indonesia
 
-- 🌱 I’m currently learning Mobile Development / Flutter
+- 🌱 I’m currently learning Data Mining, Web Development, and Mobile Development
 - 📫 you can reach me: meftah.mafazy@gmail.com / [@meftahmafazy](https://www.instagram.com/meftahmafazy) in Instagram
