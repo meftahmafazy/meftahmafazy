@@ -1,6 +1,10 @@
 ## Holla 👋
 
-My Name is Muhammad Meftah Mafazy from Banjarbaru, South Borneo, Indonesia. I'm a Lecturer in Universitas Borneo Lestari (UNBL). Recently, I was received Master's degree in Informatics from Institut Teknologi Sepuluh Nopember (ITS) and Bachelor Degree in Computer Science from Universitas Lambung Mangkurat (ULM)
+Hi, I’m Meftah, a Machine Learning Engineer and Lecturer at the Digital Business program, Universitas Borneo Lestari (UNBL).
 
-- 🌱 I’m currently learning Data Science, Development
-- 📫 you can reach me: meftah.mafazy@gmail.com / [@meftahmafazy](https://www.instagram.com/meftahmafazy) in Instagram
+My interests include machine learning, deep learning, and speech processing, especially in building intelligent and data-driven systems.
+
+I also enjoy developing back-end and mobile applications using Laravel, Flutter, and CodeIgniter. Most of my projects explore how AI and software engineering can work together to solve real problems.
+
+- 🌱 Currently exploring audio analytics, model optimization, and scalable web apps.
+- 📫 Feel free to reach out via: [Email](mailto:meftah.mafazy@gmail.com) / [LinkedIn](linkedin.com/in/meftahmafazy) / visiting [my portfolio](meftahmafazy.github.io)
