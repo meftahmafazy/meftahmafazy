@@ -1,6 +1,6 @@
 ## Holla 👋
 
-Hi, I’m Meftah, a Machine Learning Engineer and Lecturer at the Digital Business program, Universitas Borneo Lestari (UNBL).
+Hi, I’m Meftah, a Machine Learning Engineer and Lecturer at Digital Business undergraduate program, Universitas Borneo Lestari (UNBL).
 
 My interests include machine learning, deep learning, and speech processing, especially in building intelligent and data-driven systems.
 
